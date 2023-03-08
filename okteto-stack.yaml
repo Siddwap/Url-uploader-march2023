@@ -6,17 +6,17 @@ services:
 
     environment:
 
-      API_ID: $API_ID  
+      APP_ID: $APP_ID  
 
       API_HASH: $API_HASH  
 
-      BOT_TOKEN: $BOT_TOKEN 
+      TG_BOT_TOKEN: $TG_BOT_TOKEN 
 
-      BOT_OWNER: $BOT_OWNER
+      AUTH_USERS: $AUTH_USERS
 
-      CLIENT_ID: $CLIENT_ID
+      LAZY_DEVELOPER: $LAZY_DEVELOPER
 
-      CLIENT_SECRET: $CLIENT_SECRET
+      TG_BOT_TOKEN: $TG_BOT_TOKEN
 
     ports:
 
