@@ -17,6 +17,8 @@ services:
       LAZY_DEVELOPER: $LAZY_DEVELOPER
 
       WEBHOOK: $WEBHOOK
+      
+      LOG_CHANNEL : $LOG_CHANNEL
 
     ports:
 
