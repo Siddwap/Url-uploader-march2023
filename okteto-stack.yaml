@@ -16,7 +16,7 @@ services:
 
       LAZY_DEVELOPER: $LAZY_DEVELOPER
 
-      TG_BOT_TOKEN: $TG_BOT_TOKEN
+      WEBHOOK: $WEBHOOK
 
     ports:
 
